@@ -97,10 +97,10 @@ House_Price_Prediction/
 
 1. Clone the repository
 
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd House_Price_Prediction
-
-Replace YOUR_GITHUB_REPOSITORY_URL with your actual GitHub repository URL.
+```shell
+git clone https://github.com/Indrajeetmaharana3/california-house-price-prediction.git
+cd california-house-price-prediction
+```
 
 2. Create a virtual environment
 
@@ -156,9 +156,12 @@ Add automated tests for the preprocessing pipeline and predictions.
 
 👨‍💻 Author
 
-Your Name
+**Indrajeet Maharana**
 
-Add your GitHub and LinkedIn profile links here.
+* GitHub: [@Indrajeetmaharana3](https://github.com/Indrajeetmaharana3)
+* Project: [California House Price Prediction](https://github.com/Indrajeetmaharana3/california-house-price-prediction)
+
+Aspiring Machine Learning Engineer | Python | NumPy | Pandas | Scikit-learn | Machine Learning
 
 📄 License
 
